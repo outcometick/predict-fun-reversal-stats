@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360" width="720" height="360" role="img" aria-label="Predict.fun 5m: weekly reversal rate by threshold">
+
+<style>
+  .bg{fill:#fcfcfb} .t1{fill:#0b0b0b} .t2{fill:#52514e} .grid{stroke:#e4e3df}
+  .s1{stroke:#2a78d6;fill:#2a78d6} .s2{stroke:#eb6834;fill:#eb6834} .s3{stroke:#1baf7a;fill:#1baf7a}
+  .ref{stroke:#8a8984;fill:#8a8984} .ring{stroke:#fcfcfb}
+  text{font-family:-apple-system,Segoe UI,Helvetica,Arial,sans-serif;font-size:12px}
+  .title{font-size:14px;font-weight:600}
+  @media (prefers-color-scheme: dark){
+    .bg{fill:#1a1a19} .t1{fill:#f0efec} .t2{fill:#c3c2b7} .grid{stroke:#34332f}
+    .s1{stroke:#3987e5;fill:#3987e5} .s2{stroke:#d95926;fill:#d95926} .s3{stroke:#199e70;fill:#199e70}
+    .ref{stroke:#9d9c96;fill:#9d9c96} .ring{stroke:#1a1a19}
+  }
+</style>
+
+<rect class="bg" width="720" height="360" rx="8"/>
+<text class="t1 title" x="56" y="24">Predict.fun 5m: weekly reversal rate by threshold</text>
+<line class="grid" x1="56" x2="600" y1="316.0" y2="316.0" stroke-width="1"/>
+<text class="t2" x="48" y="320.0" text-anchor="end">0%</text>
+<line class="grid" x1="56" x2="600" y1="261.6" y2="261.6" stroke-width="1"/>
+<text class="t2" x="48" y="265.6" text-anchor="end">5%</text>
+<line class="grid" x1="56" x2="600" y1="207.2" y2="207.2" stroke-width="1"/>
+<text class="t2" x="48" y="211.2" text-anchor="end">10%</text>
+<line class="grid" x1="56" x2="600" y1="152.8" y2="152.8" stroke-width="1"/>
+<text class="t2" x="48" y="156.8" text-anchor="end">15%</text>
+<line class="grid" x1="56" x2="600" y1="98.4" y2="98.4" stroke-width="1"/>
+<text class="t2" x="48" y="102.4" text-anchor="end">20%</text>
+<line class="grid" x1="56" x2="600" y1="44.0" y2="44.0" stroke-width="1"/>
+<text class="t2" x="48" y="48.0" text-anchor="end">25%</text>
+<text class="t2" x="78.7" y="334" text-anchor="middle">2026-08-24</text>
+<text class="t2" x="124.0" y="334" text-anchor="middle">2026-08-31</text>
+<text class="t2" x="169.3" y="334" text-anchor="middle">2026-09-07</text>
+<text class="t2" x="214.7" y="334" text-anchor="middle">2026-09-14</text>
+<text class="t2" x="260.0" y="334" text-anchor="middle">2026-09-21</text>
+<text class="t2" x="305.3" y="334" text-anchor="middle">2026-09-28</text>
+<text class="t2" x="350.7" y="334" text-anchor="middle">2026-10-05</text>
+<text class="t2" x="396.0" y="334" text-anchor="middle">2026-10-12</text>
+<text class="t2" x="441.3" y="334" text-anchor="middle">2026-10-19</text>
+<text class="t2" x="486.7" y="334" text-anchor="middle">2026-10-26</text>
+<text class="t2" x="532.0" y="334" text-anchor="middle">2026-11-02</text>
+<text class="t2" x="577.3" y="334" text-anchor="middle">2026-11-09</text>
+<path class="s1" d="M78.7,204.9 L124.0,209.9 L169.3,221.4 L214.7,225.8 L260.0,226.7 L305.3,226.0 L350.7,217.6 L396.0,228.9 L441.3,234.1 L486.7,229.7 L532.0,212.2 L577.3,218.9" fill="none" stroke-width="2" stroke-linejoin="round"/>
+<circle class="s1" cx="577.3" cy="218.9" r="4" stroke="none"/>
+<text class="t1" x="587.3" y="222.9">90%</text>
+<path class="s2" d="M78.7,270.9 L124.0,273.4 L169.3,275.0 L214.7,272.4 L260.0,275.2 L305.3,269.9 L350.7,268.1 L396.0,271.6 L441.3,273.7 L486.7,269.6 L532.0,260.1 L577.3,263.9" fill="none" stroke-width="2" stroke-linejoin="round"/>
+<circle class="s2" cx="577.3" cy="263.9" r="4" stroke="none"/>
+<text class="t1" x="587.3" y="267.9">95%</text>
+<path class="s3" d="M78.7,316.0 L486.7,301.5 L532.0,303.1 L577.3,195.1" fill="none" stroke-width="2" stroke-linejoin="round"/>
+<circle class="s3" cx="577.3" cy="195.1" r="4" stroke="none"/>
+<text class="t1" x="587.3" y="199.1">99%</text>
+<text class="t2" x="56" y="352">week starting (Monday, UTC) · all assets · mid price</text>
+</svg>
