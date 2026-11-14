@@ -111,6 +111,11 @@ def render(venue, tables, lang, updated):
     basis_zh = ("三种价格口径：**中价** =（买一 + 卖一）/ 2、**买一**、**成交价**。Up 和 Down 各有自己的盘口。" if venue == "polymarket" else
                 "两种价格口径：**中价**、**买一**。Predict.fun 每个市场只有一本盘口（Up 方），Down 是它的镜像"
                 "（Down 以 1 − p 买入等于 Up 以 p 卖出）。Predict.fun 不公布成交流，所以没有成交价口径。")
+    basis_en += (" Mid is counted only while both sides are quoted: a book with no ask is skipped rather than priced as 1.0."
+                 " So a 99% mid needs an ask above 0.99, which only sub-cent ticks allow, and the 99% mid row has few rounds;"
+                 " for the 99% line read the best-bid basis.")
+    basis_zh += ("中价只在买卖两边都有报价时计算：没有卖单的盘口直接跳过，不按 1.0 算。"
+                 "所以中价到 99% 要求卖一高于 0.99，只有不足一美分的小档位才会出现，99% 中价那一行局数很少；看 99% 请用买一口径。")
     src_en = ("best_bid_ask (unthrottled top of book), last_trade_price and markets" if venue == "polymarket"
               else "orderbook snapshots and markets")
     src_zh = ("best_bid_ask（未抽稀的盘口顶部）、last_trade_price、markets" if venue == "polymarket" else "orderbook 快照、markets")

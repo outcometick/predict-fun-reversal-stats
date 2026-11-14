@@ -62,7 +62,7 @@ Every table is computed from [`rounds/`](rounds/): one gzip CSV per UTC day, one
 - **Round**: one 5-minute market, assigned to the UTC day it opens.
 - **Trigger**: the first moment inside the market's window when either side's price on the chosen basis is ≥ the threshold. That side is the favourite.
 - **Reversal**: the favourite lost at settlement.
-- Two price bases: **mid** and **best bid**. Predict.fun publishes one book per market (the Up side); Down is its mirror (a Down bid at 1 − p is an Up ask at p). There is no trade tape on Predict.fun, so there is no trade basis.
+- Two price bases: **mid** and **best bid**. Predict.fun publishes one book per market (the Up side); Down is its mirror (a Down bid at 1 − p is an Up ask at p). There is no trade tape on Predict.fun, so there is no trade basis. Mid is counted only while both sides are quoted: a book with no ask is skipped rather than priced as 1.0. So a 99% mid needs an ask above 0.99, which only sub-cent ticks allow, and the 99% mid row has few rounds; for the 99% line read the best-bid basis.
 - Only settled rounds count. A flat close is a **push** on Predict.fun (both sides are refunded), so those rounds are left out.
 - **Wilson interval**: 95% score interval on the reversal rate.
 - **Win rate − price**: favourite win rate minus the average trigger price, in percentage points. Mid and best bid are not prices you can buy at (you pay the ask), and no fees are included — read it as a description of the market, not as a strategy result.

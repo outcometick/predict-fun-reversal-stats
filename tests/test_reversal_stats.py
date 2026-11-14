@@ -155,7 +155,11 @@ class PolymarketTest(unittest.TestCase):
             for fn in ("README.md", "README.zh-CN.md", "charts/calibration.svg", "charts/weekly.svg"):
                 self.assertTrue(os.path.getsize(os.path.join(out, fn)) > 0, fn)
             with open(os.path.join(out, "README.md"), encoding="utf-8") as f:
-                self.assertIn("predict-fun-reversal-stats", f.read())
+                text = f.read()
+            self.assertIn("predict-fun-reversal-stats", text)
+            self.assertIn("a book with no ask is skipped rather than priced as 1.0", text)
+            with open(os.path.join(out, "README.zh-CN.md"), encoding="utf-8") as f:
+                self.assertIn("没有卖单的盘口直接跳过，不按 1.0 算", f.read())
         finally:
             shutil.rmtree(out)
 
