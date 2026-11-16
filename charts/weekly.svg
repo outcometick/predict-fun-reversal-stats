@@ -39,14 +39,14 @@
 <text class="t2" x="486.7" y="334" text-anchor="middle">2026-10-26</text>
 <text class="t2" x="532.0" y="334" text-anchor="middle">2026-11-02</text>
 <text class="t2" x="577.3" y="334" text-anchor="middle">2026-11-09</text>
-<path class="s1" d="M78.7,93.9 L124.0,103.8 L169.3,126.7 L214.7,135.6 L260.0,137.4 L305.3,136.0 L350.7,119.2 L396.0,141.8 L441.3,152.3 L486.7,143.4 L532.0,108.4 L577.3,117.5" fill="none" stroke-width="2" stroke-linejoin="round"/>
-<circle class="s1" cx="577.3" cy="117.5" r="4" stroke="none"/>
-<text class="t1" x="587.3" y="121.5">90%</text>
-<path class="s2" d="M78.7,225.8 L124.0,230.8 L169.3,234.1 L214.7,228.8 L260.0,234.4 L305.3,223.8 L350.7,220.3 L396.0,227.1 L441.3,231.4 L486.7,223.1 L532.0,204.1 L577.3,207.9" fill="none" stroke-width="2" stroke-linejoin="round"/>
-<circle class="s2" cx="577.3" cy="207.9" r="4" stroke="none"/>
-<text class="t1" x="587.3" y="211.9">95%</text>
-<path class="s3" d="M78.7,316.0 L486.7,287.0 L532.0,290.2 L577.3,98.4" fill="none" stroke-width="2" stroke-linejoin="round"/>
-<circle class="s3" cx="577.3" cy="98.4" r="4" stroke="none"/>
-<text class="t1" x="587.3" y="102.4">99%</text>
+<path class="s1" d="M78.7,93.9 L124.0,103.8 L169.3,126.7 L214.7,135.6 L260.0,137.4 L305.3,136.0 L350.7,119.2 L396.0,141.8 L441.3,152.3 L486.7,143.4 L532.0,108.4 L577.3,112.2" fill="none" stroke-width="2" stroke-linejoin="round"/>
+<circle class="s1" cx="577.3" cy="112.2" r="4" stroke="none"/>
+<text class="t1" x="587.3" y="116.2">90%</text>
+<path class="s2" d="M78.7,225.8 L124.0,230.8 L169.3,234.1 L214.7,228.8 L260.0,234.4 L305.3,223.8 L350.7,220.3 L396.0,227.1 L441.3,231.4 L486.7,223.1 L532.0,204.1 L577.3,209.5" fill="none" stroke-width="2" stroke-linejoin="round"/>
+<circle class="s2" cx="577.3" cy="209.5" r="4" stroke="none"/>
+<text class="t1" x="587.3" y="213.5">95%</text>
+<path class="s3" d="M78.7,316.0 L486.7,287.0 L532.0,290.2 L577.3,170.9" fill="none" stroke-width="2" stroke-linejoin="round"/>
+<circle class="s3" cx="577.3" cy="170.9" r="4" stroke="none"/>
+<text class="t1" x="587.3" y="174.9">99%</text>
 <text class="t2" x="56" y="352">week starting (Monday, UTC) · all assets · mid price</text>
 </svg>
