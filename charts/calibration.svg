@@ -33,23 +33,23 @@
 <text class="t2" x="436.8" y="334" text-anchor="middle">98%</text>
 <text class="t2" x="545.6" y="334" text-anchor="middle">99%</text>
 <path class="ref" d="M110.4,115.2 L219.2,175.6 L328.0,218.1 L436.8,276.4 L545.6,294.2" fill="none" stroke-width="2" stroke-linejoin="round" stroke-dasharray="5 4"/>
-<line class="s1" x1="110.4" x2="110.4" y1="131.2" y2="121.9" stroke-width="2" stroke-linecap="round"/>
-<line class="s1" x1="219.2" x2="219.2" y1="188.2" y2="180.2" stroke-width="2" stroke-linecap="round"/>
-<line class="s1" x1="328.0" x2="328.0" y1="227.7" y2="220.8" stroke-width="2" stroke-linecap="round"/>
-<line class="s1" x1="436.8" x2="436.8" y1="285.4" y2="280.2" stroke-width="2" stroke-linecap="round"/>
-<line class="s1" x1="545.6" x2="545.6" y1="301.3" y2="254.1" stroke-width="2" stroke-linecap="round"/>
-<path class="s1" d="M110.4,126.6 L219.2,184.3 L328.0,224.3 L436.8,282.9 L545.6,285.7" fill="none" stroke-width="2" stroke-linejoin="round"/>
-<circle class="s1 ring" cx="110.4" cy="126.6" r="5" stroke-width="2"/>
-<text class="t1" x="118.4" y="120.6">8.70%</text>
-<circle class="s1 ring" cx="219.2" cy="184.3" r="5" stroke-width="2"/>
-<text class="t1" x="227.2" y="178.3">6.05%</text>
-<circle class="s1 ring" cx="328.0" cy="224.3" r="5" stroke-width="2"/>
-<text class="t1" x="336.0" y="218.3">4.21%</text>
-<circle class="s1 ring" cx="436.8" cy="282.9" r="5" stroke-width="2"/>
-<text class="t1" x="444.8" y="276.9">1.52%</text>
-<circle class="s1 ring" cx="545.6" cy="285.7" r="5" stroke-width="2"/>
-<text class="t1" x="553.6" y="279.7">1.39%</text>
+<line class="s1" x1="110.4" x2="110.4" y1="131.6" y2="122.5" stroke-width="2" stroke-linecap="round"/>
+<line class="s1" x1="219.2" x2="219.2" y1="188.7" y2="180.8" stroke-width="2" stroke-linecap="round"/>
+<line class="s1" x1="328.0" x2="328.0" y1="228.2" y2="221.2" stroke-width="2" stroke-linecap="round"/>
+<line class="s1" x1="436.8" x2="436.8" y1="285.7" y2="280.6" stroke-width="2" stroke-linecap="round"/>
+<line class="s1" x1="545.6" x2="545.6" y1="301.5" y2="254.8" stroke-width="2" stroke-linecap="round"/>
+<path class="s1" d="M110.4,127.1 L219.2,184.8 L328.0,224.8 L436.8,283.2 L545.6,286.1" fill="none" stroke-width="2" stroke-linejoin="round"/>
+<circle class="s1 ring" cx="110.4" cy="127.1" r="5" stroke-width="2"/>
+<text class="t1" x="118.4" y="121.1">8.68%</text>
+<circle class="s1 ring" cx="219.2" cy="184.8" r="5" stroke-width="2"/>
+<text class="t1" x="227.2" y="178.8">6.03%</text>
+<circle class="s1 ring" cx="328.0" cy="224.8" r="5" stroke-width="2"/>
+<text class="t1" x="336.0" y="218.8">4.19%</text>
+<circle class="s1 ring" cx="436.8" cy="283.2" r="5" stroke-width="2"/>
+<text class="t1" x="444.8" y="277.2">1.51%</text>
+<circle class="s1 ring" cx="545.6" cy="286.1" r="5" stroke-width="2"/>
+<text class="t1" x="553.6" y="280.1">1.38%</text>
 <text class="t2" x="559.6" y="308.2">implied (1 − p)</text>
-<text class="t2" x="559.6" y="281.7">realised</text>
+<text class="t2" x="559.6" y="282.1">realised</text>
 <text class="t2" x="56" y="352">threshold the favourite first reached (mid price) · bars: 95% Wilson interval</text>
 </svg>
