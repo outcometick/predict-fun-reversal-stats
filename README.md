@@ -4,17 +4,17 @@
 
 In Predict.fun's 5-minute crypto Up/Down markets, once one side's price first reaches 90%, 93%, 95%, 98% or 99%, how often does that side still lose at the close? This repository answers that from tick-level order-book data and **updates itself every day**.
 
-**Coverage:** 2026-08-25 → 2026-11-19 (UTC), 87 days, 74,725 settled 5-minute markets across BTC, BNB, ETH. Last updated 2026-11-19.
+**Coverage:** 2026-08-25 → 2026-11-20 (UTC), 88 days, 75,589 settled 5-minute markets across BTC, BNB, ETH. Last updated 2026-11-20.
 
 ## Headline — all assets, mid price
 
 | favourite first reached | rounds that got there | favourite lost | reversal rate | 95% interval | avg price at trigger | win rate − price |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 90% | 72,186 | 6,307 | 8.74% | 8.53% – 8.95% | 0.9076 | 0.50 pp |
-| 93% | 69,376 | 4,212 | 6.07% | 5.90% – 6.25% | 0.9354 | 0.39 pp |
-| 95% | 64,599 | 2,721 | 4.21% | 4.06% – 4.37% | 0.9549 | 0.29 pp |
-| 98% | 44,294 | 670 | 1.51% | 1.40% – 1.63% | 0.9818 | 0.30 pp |
-| 99% | 517 | 7 | 1.35% | 0.66% – 2.77% | 0.9900 | -0.35 pp |
+| 90% | 73,038 | 6,374 | 8.73% | 8.52% – 8.93% | 0.9076 | 0.52 pp |
+| 93% | 70,212 | 4,248 | 6.05% | 5.88% – 6.23% | 0.9354 | 0.41 pp |
+| 95% | 65,417 | 2,745 | 4.20% | 4.04% – 4.35% | 0.9549 | 0.31 pp |
+| 98% | 44,956 | 676 | 1.50% | 1.40% – 1.62% | 0.9819 | 0.31 pp |
+| 99% | 522 | 7 | 1.34% | 0.65% – 2.74% | 0.9900 | -0.34 pp |
 
 ![realised vs implied reversal rate](charts/calibration.svg)
 
@@ -24,20 +24,20 @@ In Predict.fun's 5-minute crypto Up/Down markets, once one side's price first re
 
 | asset | 90% | 93% | 95% | 98% | 99% | rounds at 95% |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| **all** | 8.74% | 6.07% | 4.21% | 1.51% | 1.35% | 64,599 |
-| BTC | 8.46% | 5.75% | 3.84% | 1.40% | 1.38% | 23,792 |
-| BNB | 8.52% | 6.05% | 4.47% | 2.15% | 2.13% | 16,855 |
-| ETH | 9.21% | 6.41% | 4.40% | 1.44% | 1.11% | 23,952 |
+| **all** | 8.73% | 6.05% | 4.20% | 1.50% | 1.34% | 65,417 |
+| BTC | 8.45% | 5.74% | 3.83% | 1.40% | 1.36% | 24,077 |
+| BNB | 8.51% | 6.02% | 4.45% | 2.11% | 2.13% | 17,111 |
+| ETH | 9.21% | 6.38% | 4.38% | 1.42% | 1.10% | 24,229 |
 
 ## By price basis — all assets
 
 | threshold | mid | best bid |
 | --- | ---: | ---: |
-| 90% | 8.74% | 7.58% |
-| 93% | 6.07% | 4.99% |
-| 95% | 4.21% | 3.28% |
-| 98% | 1.51% | 1.07% |
-| 99% | 1.35% | 0.58% |
+| 90% | 8.73% | 7.58% |
+| 93% | 6.05% | 4.98% |
+| 95% | 4.20% | 3.27% |
+| 98% | 1.50% | 1.07% |
+| 99% | 1.34% | 0.59% |
 
 ## Over time
 
