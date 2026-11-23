@@ -40,12 +40,12 @@
 <text class="t2" x="495.4" y="334" text-anchor="middle">2026-11-02</text>
 <text class="t2" x="537.2" y="334" text-anchor="middle">2026-11-09</text>
 <text class="t2" x="579.1" y="334" text-anchor="middle">2026-11-16</text>
-<path class="s1" d="M76.9,93.9 L118.8,103.8 L160.6,126.7 L202.5,135.6 L244.3,137.4 L286.2,136.0 L328.0,119.2 L369.8,141.8 L411.7,152.3 L453.5,143.4 L495.4,108.4 L537.2,120.2 L579.1,109.8" fill="none" stroke-width="2" stroke-linejoin="round"/>
-<circle class="s1" cx="579.1" cy="109.8" r="4" stroke="none"/>
-<text class="t1" x="589.1" y="113.8">90%</text>
-<path class="s2" d="M76.9,225.8 L118.8,230.8 L160.6,234.1 L202.5,228.8 L244.3,234.4 L286.2,223.8 L328.0,220.3 L369.8,227.1 L411.7,231.4 L453.5,223.1 L495.4,204.1 L537.2,216.4 L579.1,223.7" fill="none" stroke-width="2" stroke-linejoin="round"/>
-<circle class="s2" cx="579.1" cy="223.7" r="4" stroke="none"/>
-<text class="t1" x="589.1" y="227.7">95%</text>
+<path class="s1" d="M76.9,93.9 L118.8,103.8 L160.6,126.7 L202.5,135.6 L244.3,137.4 L286.2,136.0 L328.0,119.2 L369.8,141.8 L411.7,152.3 L453.5,143.4 L495.4,108.4 L537.2,120.2 L579.1,111.8" fill="none" stroke-width="2" stroke-linejoin="round"/>
+<circle class="s1" cx="579.1" cy="111.8" r="4" stroke="none"/>
+<text class="t1" x="589.1" y="115.8">90%</text>
+<path class="s2" d="M76.9,225.8 L118.8,230.8 L160.6,234.1 L202.5,228.8 L244.3,234.4 L286.2,223.8 L328.0,220.3 L369.8,227.1 L411.7,231.4 L453.5,223.1 L495.4,204.1 L537.2,216.4 L579.1,219.8" fill="none" stroke-width="2" stroke-linejoin="round"/>
+<circle class="s2" cx="579.1" cy="219.8" r="4" stroke="none"/>
+<text class="t1" x="589.1" y="223.8">95%</text>
 <path class="s3" d="M76.9,316.0 L453.5,287.0 L495.4,290.2 L537.2,212.4 L579.1,316.0" fill="none" stroke-width="2" stroke-linejoin="round"/>
 <circle class="s3" cx="579.1" cy="316.0" r="4" stroke="none"/>
 <text class="t1" x="589.1" y="320.0">99%</text>
