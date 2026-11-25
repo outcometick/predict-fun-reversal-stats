@@ -27,27 +27,28 @@
 <text class="t2" x="48" y="102.4" text-anchor="end">10%</text>
 <line class="grid" x1="56" x2="600" y1="44.0" y2="44.0" stroke-width="1"/>
 <text class="t2" x="48" y="48.0" text-anchor="end">12.5%</text>
-<text class="t2" x="76.9" y="334" text-anchor="middle">2026-08-24</text>
-<text class="t2" x="118.8" y="334" text-anchor="middle">2026-08-31</text>
-<text class="t2" x="160.6" y="334" text-anchor="middle">2026-09-07</text>
-<text class="t2" x="202.5" y="334" text-anchor="middle">2026-09-14</text>
-<text class="t2" x="244.3" y="334" text-anchor="middle">2026-09-21</text>
-<text class="t2" x="286.2" y="334" text-anchor="middle">2026-09-28</text>
-<text class="t2" x="328.0" y="334" text-anchor="middle">2026-10-05</text>
-<text class="t2" x="369.8" y="334" text-anchor="middle">2026-10-12</text>
-<text class="t2" x="411.7" y="334" text-anchor="middle">2026-10-19</text>
-<text class="t2" x="453.5" y="334" text-anchor="middle">2026-10-26</text>
-<text class="t2" x="495.4" y="334" text-anchor="middle">2026-11-02</text>
-<text class="t2" x="537.2" y="334" text-anchor="middle">2026-11-09</text>
-<text class="t2" x="579.1" y="334" text-anchor="middle">2026-11-16</text>
-<path class="s1" d="M76.9,93.9 L118.8,103.8 L160.6,126.7 L202.5,135.6 L244.3,137.4 L286.2,136.0 L328.0,119.2 L369.8,141.8 L411.7,152.3 L453.5,143.4 L495.4,108.4 L537.2,120.2 L579.1,122.4" fill="none" stroke-width="2" stroke-linejoin="round"/>
-<circle class="s1" cx="579.1" cy="122.4" r="4" stroke="none"/>
-<text class="t1" x="589.1" y="126.4">90%</text>
-<path class="s2" d="M76.9,225.8 L118.8,230.8 L160.6,234.1 L202.5,228.8 L244.3,234.4 L286.2,223.8 L328.0,220.3 L369.8,227.1 L411.7,231.4 L453.5,223.1 L495.4,204.1 L537.2,216.4 L579.1,225.0" fill="none" stroke-width="2" stroke-linejoin="round"/>
-<circle class="s2" cx="579.1" cy="225.0" r="4" stroke="none"/>
-<text class="t1" x="589.1" y="229.0">95%</text>
-<path class="s3" d="M76.9,316.0 L453.5,287.0 L495.4,290.2 L537.2,212.4 L579.1,316.0" fill="none" stroke-width="2" stroke-linejoin="round"/>
-<circle class="s3" cx="579.1" cy="316.0" r="4" stroke="none"/>
-<text class="t1" x="589.1" y="320.0">99%</text>
+<text class="t2" x="75.4" y="334" text-anchor="middle">2026-08-24</text>
+<text class="t2" x="114.3" y="334" text-anchor="middle">2026-08-31</text>
+<text class="t2" x="153.1" y="334" text-anchor="middle">2026-09-07</text>
+<text class="t2" x="192.0" y="334" text-anchor="middle">2026-09-14</text>
+<text class="t2" x="230.9" y="334" text-anchor="middle">2026-09-21</text>
+<text class="t2" x="269.7" y="334" text-anchor="middle">2026-09-28</text>
+<text class="t2" x="308.6" y="334" text-anchor="middle">2026-10-05</text>
+<text class="t2" x="347.4" y="334" text-anchor="middle">2026-10-12</text>
+<text class="t2" x="386.3" y="334" text-anchor="middle">2026-10-19</text>
+<text class="t2" x="425.1" y="334" text-anchor="middle">2026-10-26</text>
+<text class="t2" x="464.0" y="334" text-anchor="middle">2026-11-02</text>
+<text class="t2" x="502.9" y="334" text-anchor="middle">2026-11-09</text>
+<text class="t2" x="541.7" y="334" text-anchor="middle">2026-11-16</text>
+<text class="t2" x="580.6" y="334" text-anchor="middle">2026-11-23</text>
+<path class="s1" d="M75.4,93.9 L114.3,103.8 L153.1,126.7 L192.0,135.6 L230.9,137.4 L269.7,136.0 L308.6,119.2 L347.4,141.8 L386.3,152.3 L425.1,143.4 L464.0,108.4 L502.9,120.2 L541.7,122.4 L580.6,117.3" fill="none" stroke-width="2" stroke-linejoin="round"/>
+<circle class="s1" cx="580.6" cy="117.3" r="4" stroke="none"/>
+<text class="t1" x="590.6" y="121.3">90%</text>
+<path class="s2" d="M75.4,225.8 L114.3,230.8 L153.1,234.1 L192.0,228.8 L230.9,234.4 L269.7,223.8 L308.6,220.3 L347.4,227.1 L386.3,231.4 L425.1,223.1 L464.0,204.1 L502.9,216.4 L541.7,225.0 L580.6,237.5" fill="none" stroke-width="2" stroke-linejoin="round"/>
+<circle class="s2" cx="580.6" cy="237.5" r="4" stroke="none"/>
+<text class="t1" x="590.6" y="241.5">95%</text>
+<path class="s3" d="M75.4,316.0 L425.1,287.0 L464.0,290.2 L502.9,212.4 L541.7,316.0 L580.6,316.0" fill="none" stroke-width="2" stroke-linejoin="round"/>
+<circle class="s3" cx="580.6" cy="316.0" r="4" stroke="none"/>
+<text class="t1" x="590.6" y="320.0">99%</text>
 <text class="t2" x="56" y="352">week starting (Monday, UTC) · all assets · mid price</text>
 </svg>
