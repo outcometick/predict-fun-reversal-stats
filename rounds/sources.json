@@ -649,5 +649,12 @@
   "data/predict-fun/orderbook/BNB-5M/BNB-5M-predict-orderbook-2026-11-25.jsonl.gz": "a2576b10d495d544ac3c4c516e62bc5dc3e1a02bf481d5630e56f851e71f6bde",
   "data/predict-fun/markets/predict-markets-2026-11-25.jsonl.gz": "037d3120cd699520f5782261d9d6cbc0ddf7883ee3b7b5c3749711d8c12184df",
   "data/predict-fun/markets/predict-markets-2026-11-26.jsonl.gz": "698ef799abfb23227cd13b8bf260f7eceeb6b082302c63af8ee921fe83250764"
+ },
+ "2026-11-26": {
+  "data/predict-fun/orderbook/BTC-5M/BTC-5M-predict-orderbook-2026-11-26.jsonl.gz": "c812a740492c354ec5011a910eedfd0551b36c8a62201191b962351198cef732",
+  "data/predict-fun/orderbook/ETH-5M/ETH-5M-predict-orderbook-2026-11-26.jsonl.gz": "366add43796b63740a82ccb6fc924b5e0beb74f515eec8fba5cb10eca728b114",
+  "data/predict-fun/orderbook/BNB-5M/BNB-5M-predict-orderbook-2026-11-26.jsonl.gz": "3b0dcae26c99fa3751968d12a5661f70d06021604d1cfc32e7301410388ead5d",
+  "data/predict-fun/markets/predict-markets-2026-11-26.jsonl.gz": "698ef799abfb23227cd13b8bf260f7eceeb6b082302c63af8ee921fe83250764",
+  "data/predict-fun/markets/predict-markets-2026-11-27.jsonl.gz": "e202051ef83627c27d39397dfa021109aec25fa75f9f5a7acb1ab29ed7eb540c"
  }
 }
